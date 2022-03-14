@@ -1,0 +1,1 @@
+docker run -d --name xxxxx -p xxxx:80 -e USER=xxxxx -e PASSWORD=xxxxx -e HTPP_PASSWORD=xxxxx dorowu/ubuntu-desktop-lxde-vnc:focal
